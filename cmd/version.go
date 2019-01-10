@@ -7,7 +7,7 @@ import (
 )
 
 // Version The current version of hetzner-kube.
-const version = "DEVELOP"
+const version = "DEVELOP-HBB"
 
 // versionCmd represents the version command
 var versionCmd = &cobra.Command{
